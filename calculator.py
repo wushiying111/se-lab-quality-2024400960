@@ -4,6 +4,7 @@ import math
 import sys
 
 
+
 class Calculator:
 
     def process_order(self, items, customer_type, total):
